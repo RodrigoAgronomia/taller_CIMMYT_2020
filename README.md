@@ -9,4 +9,6 @@ https://socviz.co/lookatdata.html
 
 https://mlr3.mlr-org.com/
 
+https://github.com/r-spatial/rgee
+
 https://rstudio.com/resources/cheatsheets/
