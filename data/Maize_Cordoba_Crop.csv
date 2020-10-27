@@ -1,0 +1,805 @@
+"Planting_Date","Harvest_Date","Cultivar","Former_Crop","Sowing_Method","Soil_ID","Yield"
+"10/1/2013","2/3/2014","PIONEER 30F32","Algodon","Mecanizado",1,5
+"8/25/2013","1/15/2014","DK 234","Maiz","Mecanizado",2,5
+"5/13/2013","9/26/2013","PIONEER 30F32","Algodon","Mecanizado",3,5.5
+"5/2/2013","9/11/2013","Otro","Algodon","Mecanizado",1,5.2
+"5/12/2013","9/19/2013","Otro","Algodon","Mecanizado",4,5.7
+"5/7/2013","9/12/2013","DK 234","Maiz","Mecanizado",1,5.2
+"5/7/2013","9/12/2013","Otro","Maiz","Manual",5,4.7
+"5/8/2013","9/18/2013","PIONEER 30F32","Algodon","Manual",4,6
+"5/2/2013","9/17/2013","DK 234","Algodon","Manual",6,5.5
+"5/9/2013","9/22/2013","PIONEER 30F35","Frijol","Mecanizado",7,4.5
+"5/3/2013","9/14/2013","Otro","Algodon","Mecanizado",5,6.2
+"5/26/2013","10/5/2013","Otro","Algodon","Manual",1,5.3
+"5/1/2013","9/12/2013","FNC 3056","Algodon","Manual",6,4.5
+"5/1/2013","9/11/2013","PIONEER 30F32","Maiz","Manual",1,6
+"5/10/2013","9/21/2013","Otro","Maiz","Mecanizado",8,5.3
+"5/20/2013","9/30/2013","Otro","Algodon","Manual",1,5.8
+"5/20/2013","9/24/2013","PIONEER 30F35","Yuca","Manual",6,5.5
+"5/13/2013","9/17/2013","Otro","Maiz","Mecanizado",9,4
+"5/15/2013","10/3/2013","FNC 114","Maiz","Mecanizado",9,4
+"9/26/2013","2/3/2014","FNC 114","Maiz","Mecanizado",9,4
+"10/1/2013","2/3/2014","PIONEER 30F35 H","Maiz","Manual",10,4
+"9/22/2013","2/10/2014","Otro","Maiz","Mecanizado",11,2.5
+"10/1/2013","1/30/2014","Otro","Maiz","Mecanizado",12,4
+"8/25/2013","1/15/2014","Otro","Maiz","Mecanizado",13,2.5
+"10/6/2013","2/10/2014","PIONEER 30F35","Maiz","Mecanizado",14,5
+"9/14/2013","1/10/2014","Otro","Maiz","Mecanizado",14,5.6
+"10/7/2013","2/10/2014","Otro","Maiz","Mecanizado",11,3.5
+"10/9/2013","3/10/2014","PIONEER 30F35","Maiz","Mecanizado",14,5
+"10/17/2015","2/23/2016","DK 234","Algodon","Mecanizado",9,3.5
+"5/10/2014","9/9/2014","Otro","Algodon","Manual",9,3.5
+"5/20/2014","9/25/2014","PIONEER 30F35 H","Pastos","Manual",9,3.2
+"5/5/2014","9/7/2014","DK 234","Algodon","Mecanizado",12,3.7
+"5/13/2014","9/17/2014","PIONEER 30F35","Algodon","Manual",10,3.8
+"5/17/2014","9/20/2014","Otro","Algodon","Manual",9,3
+"11/2/2013","3/13/2014","DK7088","Algodon","Mecanizado",9,4
+"9/29/2013","1/20/2014","DK 234","Maiz","Mecanizado",11,5
+"7/19/2013","12/20/2013","Otro","Maiz","Mecanizado",9,4
+"9/13/2013","1/14/2014","DK7088","Algodon","Manual",9,3.2
+"5/19/2014","9/20/2014","PIONEER 30F35 H","Algodon","Mecanizado",15,6.7
+"3/26/2014","7/31/2014","Otro","Maiz","Mecanizado",14,7.2
+"5/6/2014","9/18/2014","Otro","Maiz","Mecanizado",14,6.8
+"5/10/2014","9/12/2014","Otro","Pastos","Mecanizado",16,6.5
+"5/20/2014","9/22/2014","Otro","Maiz","Mecanizado",17,6.8
+"5/8/2014","9/12/2014","PIONEER 30F35","Algodon","Mecanizado",14,6
+"5/5/2014","9/2/2014","DK 234","Algodon","Manual",17,3.7
+"5/10/2014","9/25/2014","PAC 105","Algodon","Manual",18,4
+"5/12/2014","9/15/2014","Otro","Algodon","Mecanizado",17,6.5
+"5/1/2014","9/28/2014","DK7088","Algodon","Mecanizado",17,4
+"5/4/2014","9/18/2014","PAC 105","Algodon","Mecanizado",19,4.5
+"5/5/2014","9/12/2014","PAC 105","Algodon","Mecanizado",20,5.5
+"5/15/2014","9/29/2014","DK 234","Algodon","Mecanizado",14,3
+"5/10/2014","6/8/2014","PAC 105","Algodon","Manual",16,3.5
+"5/23/2014","10/7/2014","DK 234","Algodon","Mecanizado",14,3.8
+"8/28/2014","1/20/2015","PAC 105","Algodon","Mecanizado",14,3.8
+"8/29/2014","1/29/2015","PAC 105","Algodon","Manual",14,4.5
+"10/1/2014","2/6/2015","Otro","Algodon","Manual",11,4.8
+"9/19/2014","1/30/2015","PAC 105","Algodon","Manual",17,5
+"8/27/2014","1/5/2015","PAC 105","Algodon","Manual",14,4.8
+"9/8/2014","1/28/2015","Otro","Algodon","Mecanizado",17,4.2
+"5/27/2015","10/4/2015","PAC 105","Frijol","Manual",13,3.8
+"5/27/2015","9/28/2015","PIONEER 30F35","Maiz","Mecanizado",11,4.3
+"5/27/2015","10/7/2015","Otro","Algodon","Mecanizado",14,5
+"5/28/2015","10/7/2015","Otro","Maiz","Mecanizado",14,4.8
+"5/17/2015","9/19/2015","Otro","Algodon","Mecanizado",14,5
+"5/20/2015","9/18/2015","Otro","Algodon","Manual",16,6.5
+"5/26/2015","9/28/2015","Otro","Maiz","Manual",21,3.8
+"5/20/2015","9/15/2015","Otro","Maiz","Manual",22,4
+"5/26/2015","9/29/2015","Otro","Maiz","Manual",23,3.6
+"5/21/2015","9/24/2015","Otro","Maiz","Mecanizado",9,4.5
+"5/26/2015","10/10/2015","DK 234 YGRR","Maiz","Manual",14,5
+"5/20/2015","10/8/2015","DK 234","Maiz","Mecanizado",11,4
+"5/27/2015","10/5/2015","DK7088","Maiz","Manual",24,4
+"5/31/2015","9/29/2015","DK7088","Algodon","Mecanizado",1,3.2
+"5/28/2015","9/30/2015","PIONEER 30F35","Algodon","Manual",8,1.6
+"5/3/2015","8/25/2015","Otro","Algodon","Mecanizado",25,6
+"5/18/2015","9/18/2015","Otro","Algodon","Mecanizado",25,6.1
+"5/15/2015","9/21/2015","PAC 105","Algodon","Mecanizado",26,3.5
+"5/15/2015","9/20/2015","DK 234 YGRR","Algodon","Mecanizado",27,4.1
+"5/28/2015","10/2/2015","PAC 105","Algodon","Mecanizado",28,2.3
+"5/16/2015","9/20/2015","Otro","Algodon","Mecanizado",25,5.9
+"5/26/2015","9/27/2015","Otro","Algodon","Mecanizado",25,5.89
+"5/18/2015","9/22/2015","Otro","Algodon","Mecanizado",29,1.3
+"5/25/2015","9/25/2015","DK 234 YGRR","Algodon","Mecanizado",30,5.5
+"5/22/2015","10/12/2015","Otro","Algodon","Mecanizado",31,4.2
+"5/18/2015","9/20/2015","Otro","Algodon","Mecanizado",31,6.3
+"5/7/2015","9/20/2015","Otro","Algodon","Manual",32,3.5
+"5/11/2015","9/18/2015","Otro","Algodon","Mecanizado",33,2.35
+"5/9/2015","9/14/2015","PIONEER 30F32HW","Pastos","Mecanizado",28,5.7
+"5/20/2015","9/21/2015","Otro","Algodon","Mecanizado",34,5.5
+"5/11/2015","9/17/2015","P4082 (Pioneer)","Algodon","Mecanizado",34,3.7
+"5/21/2015","10/12/2015","Otro","Frijol","Mecanizado",35,4
+"5/20/2015","9/19/2015","Otro","Yuca","Mecanizado",32,3
+"5/20/2015","9/22/2015","DK 1040","Frijol","Manual",35,2
+"5/20/2015","9/22/2015","P4082 (Pioneer)","Algodon","Mecanizado",33,2.2
+"5/14/2015","9/20/2015","P4082 (Pioneer)","Algodon","Mecanizado",23,2.3
+"5/23/2015","9/25/2015","DK 234 YGRR","Algodon","Mecanizado",36,2.6
+"5/22/2015","9/30/2015","P4082 (Pioneer)","Algodon","Mecanizado",26,1.2
+"5/19/2015","9/25/2015","PAC 105","Pastos","Manual",31,4
+"5/23/2015","10/2/2015","P3966 (Pioneer)","Algodon","Manual",33,5.8
+"5/1/2015","9/5/2015","DK 234","Algodon","Manual",1,2.2
+"5/20/2015","9/30/2015","DK 234","Algodon","Mecanizado",33,4.6
+"5/27/2015","10/4/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,6.3
+"5/21/2015","9/27/2015","P4082 (Pioneer)","Algodon","Mecanizado",34,6
+"5/22/2015","9/30/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,7
+"5/30/2015","10/5/2015","P4082 (Pioneer)","Algodon","Mecanizado",38,6.95
+"5/27/2015","9/26/2015","PAC 105","Algodon","Mecanizado",28,1.8
+"5/15/2015","10/13/2015","DK 234","Algodon","Manual",39,2.4
+"5/17/2015","9/12/2015","Impacto (Syngenta)","Algodon","Mecanizado",40,3.3
+"5/16/2015","9/15/2015","DK 234","Algodon","Manual",7,2.6
+"5/21/2015","10/5/2015","DK 1596","Algodon","Manual",1,2.8
+"5/20/2015","9/25/2015","Otro","Algodon","Mecanizado",41,3.7
+"5/16/2015","9/15/2015","PAC 105","Algodon","Manual",1,3.1
+"5/6/2015","9/12/2015","DK 234","Algodon","Mecanizado",42,1.9
+"5/25/2015","9/23/2015","DK 234","Algodon","Mecanizado",4,2.4
+"4/22/2015","9/17/2015","DK 234","Frijol","Mecanizado",4,3.4
+"5/26/2015","9/21/2015","DK 234","Algodon","Mecanizado",43,3.1
+"5/25/2015","9/23/2015","DK 234","Algodon","Mecanizado",6,3
+"5/25/2015","10/3/2015","DK 234","Algodon","Mecanizado",43,3.2
+"5/20/2015","9/28/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,6.3
+"5/15/2015","9/23/2015","DK 234","Algodon","Manual",38,5.1
+"5/22/2015","9/27/2015","DK 234","Algodon","Manual",38,5
+"6/1/2015","10/12/2015","DK 234","Algodon","Manual",37,4.9
+"5/21/2015","9/30/2015","PAC 105","Algodon","Manual",27,3.392
+"5/25/2015","10/12/2015","Otro","Maiz","Manual",37,5
+"5/25/2015","10/3/2015","P3966 (Pioneer)","Algodon","Mecanizado",14,3.3
+"5/24/2015","9/15/2015","Otro","Algodon","Manual",37,6
+"5/29/2015","10/15/2015","Otro","Algodon","Manual",37,4.8
+"5/20/2015","9/23/2015","P4082 (Pioneer)","Algodon","Mecanizado",30,2.2
+"5/28/2015","9/26/2015","P4082 (Pioneer)","Algodon","Mecanizado",18,5.5
+"5/18/2015","9/21/2015","P4082 (Pioneer)","Algodon","Mecanizado",38,5.5
+"5/19/2015","9/19/2015","P3966 (Pioneer)","Algodon","Mecanizado",18,5
+"5/26/2015","9/27/2015","DK 234","Algodon","Mecanizado",31,2.7
+"5/24/2015","9/28/2015","DK 234","Algodon","Mecanizado",6,1.2
+"5/30/2015","9/14/2015","DK 234","Algodon","Mecanizado",40,3.1
+"5/30/2015","9/19/2015","DK 234","Algodon","Mecanizado",23,2.4
+"5/20/2015","9/17/2015","DK7088","Algodon","Mecanizado",43,3.2
+"5/21/2015","9/18/2015","PIONEER 30F35 HRR","Maiz","Manual",31,5.1
+"5/23/2015","9/26/2015","PAC 105","Algodon","Manual",4,1.8
+"5/21/2015","9/27/2015","Otro","Maiz","Manual",42,1.7
+"5/15/2015","9/21/2015","P3966 (Pioneer)","Algodon","Mecanizado",37,7
+"5/20/2015","9/27/2015","DK 234","Algodon","Mecanizado",44,3.3
+"5/20/2015","9/19/2015","Otro","Algodon","Mecanizado",18,5
+"5/17/2015","9/20/2015","P4082 (Pioneer)","Algodon","Mecanizado",25,6.2
+"5/23/2015","9/25/2015","DK 234","Algodon","Mecanizado",34,5
+"6/7/2015","10/12/2015","P4082 (Pioneer)","Algodon","Mecanizado",34,5.2
+"5/25/2015","9/25/2015","DK 234","Algodon","Mecanizado",34,5.2
+"5/30/2015","10/12/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,6.38
+"5/20/2015","9/27/2015","P4082 (Pioneer)","Algodon","Mecanizado",45,5.7
+"5/20/2015","9/24/2015","DK 234 YGRR","Frijol","Manual",31,3.5
+"5/20/2015","9/20/2015","PIONEER 30F35","Frijol","Manual",31,2.5
+"5/21/2015","9/23/2015","Otro","Frijol","Mecanizado",37,3
+"5/23/2015","9/14/2015","P4082 (Pioneer)","Pastos","Mecanizado",46,5.2
+"5/18/2015","9/25/2015","DK 234","Algodon","Mecanizado",28,2.88
+"5/18/2015","9/26/2015","P4082 (Pioneer)","Algodon","Mecanizado",23,4.5
+"5/18/2015","9/14/2015","P4082 (Pioneer)","Maiz","Mecanizado",18,7.2
+"4/26/2015","9/4/2015","DK 234","Algodon","Mecanizado",33,5
+"6/6/2015","10/5/2015","ICA V 156","Algodon","Mecanizado",33,3
+"5/18/2015","9/14/2015","DK 234","Algodon","Mecanizado",18,4
+"5/20/2015","9/21/2015","P4082 (Pioneer)","Algodon","Mecanizado",33,4.88
+"5/3/2015","9/7/2015","Otro","Algodon","Mecanizado",40,3.7
+"5/15/2015","9/10/2015","P4082 (Pioneer)","Algodon","Mecanizado",44,3
+"5/20/2015","9/15/2015","DK 234","Pastos","Mecanizado",28,4.5
+"5/25/2015","10/1/2015","P3966 (Pioneer)","Algodon","Mecanizado",33,4.8
+"5/21/2015","10/5/2015","DK 234 YGRR","Algodon","Mecanizado",41,1.8
+"4/4/2015","9/1/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,5.1
+"4/28/2015","9/10/2015","DK 234","Algodon","Mecanizado",47,5.4
+"5/20/2015","9/25/2015","DK 234","Algodon","Mecanizado",37,5
+"5/23/2015","9/30/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,5.3
+"5/25/2015","10/2/2015","PAC 105","Algodon","Mecanizado",37,5.5
+"5/5/2015","9/10/2015","Otro","Pastos","Mecanizado",26,2.012
+"5/21/2015","9/15/2015","P4082 (Pioneer)","Algodon","Mecanizado",37,5.6
+"5/21/2015","9/20/2015","PAC 105","Algodon","Mecanizado",31,1.99
+"5/5/2015","9/14/2015","P4082 (Pioneer)","Algodon","Mecanizado",25,5.2
+"5/20/2015","9/30/2015","DK 234 YGRR","Algodon","Mecanizado",23,3.1
+"5/5/2015","9/28/2015","Otro","Algodon","Mecanizado",42,4.1
+"5/22/2015","9/27/2015","Otro","Maiz","Mecanizado",30,2
+"5/28/2015","10/15/2015","P4082 (Pioneer)","Maiz","Mecanizado",38,4
+"5/25/2015","9/29/2015","Otro","Algodon","Mecanizado",37,5.5
+"5/20/2015","9/16/2015","PAC 105","Algodon","Mecanizado",48,4
+"5/1/2015","9/9/2015","DK 234 YGRR","Algodon","Manual",33,4.8
+"5/19/2015","9/10/2015","P4082 (Pioneer)","Algodon","Manual",31,3.687
+"5/20/2015","9/15/2015","P3966 (Pioneer)","Algodon","Mecanizado",23,2.5
+"5/26/2015","9/25/2015","Otro","Maiz","Mecanizado",23,6.62
+"5/20/2015","9/18/2015","PIONEER 30F35","Algodon","Mecanizado",42,4
+"5/30/2015","9/29/2015","PIONEER 30F35","Algodon","Mecanizado",35,2.13
+"5/20/2015","9/22/2015","DK 234 YGRR","Algodon","Manual",31,4.5
+"5/26/2015","9/25/2015","PAC 105","Algodon","Mecanizado",27,4
+"6/1/2015","9/26/2015","Otro","Algodon","Mecanizado",37,5.2
+"5/28/2015","9/16/2015","Otro","Algodon","Mecanizado",34,3.7
+"5/20/2015","9/15/2015","Otro","Algodon","Mecanizado",37,4.9
+"5/12/2015","9/25/2015","Otro","Algodon","Mecanizado",38,5.3
+"5/16/2015","10/1/2015","PIONEER 30F32","Algodon","Mecanizado",37,4.8
+"5/20/2015","9/18/2015","Otro","Algodon","Mecanizado",37,4.8
+"5/22/2015","9/24/2015","P3966 (Pioneer)","Algodon","Mecanizado",14,3.925
+"5/17/2015","9/19/2015","Impacto (Syngenta)","Algodon","Mecanizado",27,4.75
+"5/19/2015","9/20/2015","PAC 105","Algodon","Mecanizado",23,2
+"5/15/2015","9/14/2015","Otro","Algodon","Mecanizado",32,4.38
+"5/15/2015","9/17/2015","P4082 (Pioneer)","Algodon","Mecanizado",38,5.1
+"5/3/2015","9/16/2015","PAC 105","Algodon","Mecanizado",38,5
+"5/9/2015","9/10/2015","PAC 105","Algodon","Mecanizado",23,3
+"5/1/2015","9/8/2015","Otro","Algodon","Mecanizado",38,4.9
+"5/1/2015","9/10/2015","PAC 105","Algodon","Mecanizado",23,4
+"5/27/2015","9/28/2015","P4082 (Pioneer)","Algodon","Mecanizado",23,6.5
+"5/30/2015","9/28/2015","DK 234 YGRR","Pastos","Manual",23,4.7
+"5/20/2015","9/30/2015","Otro","Algodon","Manual",33,3.5
+"5/16/2015","9/28/2015","DK 234","Maiz","Mecanizado",29,5
+"5/23/2015","9/24/2015","DK 234 YGRR","Maiz","Mecanizado",28,4.5
+"5/20/2015","9/27/2015","DK 234","Maiz","Manual",33,4.8
+"5/20/2015","9/15/2015","DK 234","Maiz","Manual",23,4
+"5/25/2015","9/30/2015","DK 234 YGRR","Algodon","Manual",39,3.5
+"5/15/2015","9/27/2015","P3966 (Pioneer)","Algodon","Mecanizado",36,6
+"5/18/2015","9/20/2015","P3966 (Pioneer)","Algodon","Mecanizado",14,6
+"5/20/2015","9/21/2015","DK 234","Algodon","Mecanizado",39,2.8
+"4/24/2015","8/31/2015","P4082 (Pioneer)","Algodon","Mecanizado",33,6
+"4/23/2015","9/1/2015","P4082 (Pioneer)","Algodon","Mecanizado",49,5.5
+"5/14/2015","9/29/2015","DK 234","Maiz","Manual",14,3.8
+"5/28/2015","10/2/2015","PAC 105","Algodon","Mecanizado",29,4.2
+"5/1/2015","8/21/2015","Otro","Algodon","Mecanizado",50,1.8
+"5/7/2015","9/25/2015","DK 234 YGRR","Algodon","Mecanizado",6,3.4
+"5/16/2015","10/2/2015","DK 234","Algodon","Manual",44,2.3
+"5/11/2015","9/21/2015","DK 234 YGRR","Algodon","Mecanizado",4,4.1
+"5/21/2015","9/27/2015","DK 234 YGRR","Algodon","Manual",51,4
+"5/25/2015","10/4/2015","DK 234 YGRR","Algodon","Mecanizado",6,4.2
+"5/20/2015","10/8/2015","ADV 9339 (Syngenta)","Algodon","Mecanizado",6,2.1
+"5/18/2015","9/18/2015","Otro","Algodon","Mecanizado",4,5.9
+"5/19/2015","9/18/2015","DK 234 YGRR","Algodon","Mecanizado",4,3.1
+"5/5/2015","9/10/2015","DK 234 YGRR","Algodon","Mecanizado",6,3
+"5/10/2015","9/15/2015","DK 234 YGRR","Algodon","Mecanizado",43,4
+"5/25/2015","9/25/2015","P3966 (Pioneer)","Algodon","Mecanizado",42,5.1
+"5/17/2015","9/25/2015","P3966 (Pioneer)","Algodon","Mecanizado",4,5
+"5/10/2015","9/15/2015","DK7088","Algodon","Mecanizado",43,4.6
+"5/20/2015","9/17/2015","Otro","Algodon","Manual",39,2.8
+"5/20/2015","9/25/2015","DK 234","Algodon","Mecanizado",29,3.3
+"5/16/2015","10/2/2015","PAC 105","Algodon","Manual",30,4.6
+"4/13/2015","8/27/2015","Otro","Algodon","Mecanizado",37,6.4
+"5/12/2015","9/28/2015","DK 234 YGRR","Algodon","Mecanizado",33,5.5
+"5/6/2015","9/25/2015","Otro","Maiz","Mecanizado",18,3.8
+"5/20/2015","9/29/2015","P4082 (Pioneer)","Algodon","Mecanizado",28,2.5
+"5/20/2015","10/2/2015","Otro","Algodon","Mecanizado",18,3.8
+"4/21/2015","9/10/2015","DK7088","Algodon","Mecanizado",52,2.95
+"4/21/2015","9/14/2015","DK 234 YGRR","Algodon","Mecanizado",44,3.1
+"4/20/2015","9/4/2015","DK 234 YGRR","Algodon","Mecanizado",4,3.5
+"4/22/2015","9/14/2015","ADV 9339 (Syngenta)","Algodon","Mecanizado",37,5
+"4/25/2015","9/24/2015","Otro","Algodon","Mecanizado",37,6
+"4/20/2015","9/12/2015","Otro","Algodon","Mecanizado",37,5.5
+"5/1/2015","9/17/2015","P3966 (Pioneer)","Algodon","Mecanizado",37,5.5
+"5/23/2015","10/9/2015","Otro","Algodon","Mecanizado",37,5.85
+"5/17/2015","10/9/2015","DK 234 YGRR","Algodon","Mecanizado",39,3.6
+"5/17/2015","9/29/2015","DK 234 YGRR","Algodon","Mecanizado",6,3.8
+"5/15/2015","10/10/2015","DK 234 YGRR","Algodon","Mecanizado",42,2.5
+"5/22/2015","10/10/2015","Otro","Algodon","Mecanizado",37,5.5
+"9/10/2015","1/26/2016","Otro","Algodon","Mecanizado",18,3.8
+"9/12/2015","1/20/2016","DK 234","Algodon","Mecanizado",14,3.5
+"9/14/2015","1/27/2016","DK 234","Algodon","Mecanizado",29,2.2
+"9/7/2015","1/16/2016","P3966 (Pioneer)","Algodon","Mecanizado",14,3.8
+"9/20/2015","1/29/2016","P4082 (Pioneer)","Algodon","Mecanizado",31,4.164
+"9/18/2015","1/25/2016","PIONEER 30F35","Algodon","Manual",23,3.7
+"9/25/2015","2/12/2016","P4082 (Pioneer)","Maiz","Mecanizado",33,3.8
+"5/10/2014","9/15/2014","ADV 9339 (Syngenta)","Algodon","Mecanizado",53,2.2
+"9/28/2015","2/9/2016","Otro","Algodon","Mecanizado",18,4.9
+"10/9/2015","2/20/2016","DK 234 YGRR","Algodon","Manual",54,2.7
+"5/19/2016","9/30/2016","PAC 105","Algodon","Mecanizado",31,1.6
+"5/18/2016","10/7/2016","DK 234 YGRR","Algodon","Mecanizado",6,2
+"5/17/2016","9/23/2016","DK 234 YGRR","Algodon","Mecanizado",43,2.8
+"5/16/2016","9/24/2016","DK 234 YGRR","Algodon","Mecanizado",55,3
+"5/17/2016","9/30/2016","P4082 (Pioneer)","Algodon","Manual",40,3.1
+"5/16/2016","10/2/2016","Otro","Algodon","Mecanizado",47,5
+"5/15/2016","9/23/2016","DK 234 YGRR","Algodon","Mecanizado",6,3.2
+"5/5/2016","9/11/2016","DK 234 YGRR","Algodon","Mecanizado",43,4
+"5/7/2016","9/20/2016","PAC 105","Algodon","Mecanizado",18,5
+"4/30/2015","9/15/2015","DK 234 YGRR","Algodon","Mecanizado",4,4.2
+"4/28/2015","9/19/2015","ADV 9339 (Syngenta)","Algodon","Mecanizado",34,5.2
+"5/21/2015","10/3/2015","DK 234 YGRR","Algodon","Mecanizado",6,4.5
+"5/15/2015","9/12/2015","DK 234 YGRR","Algodon","Mecanizado",38,4.8
+"5/2/2015","9/22/2015","DK 234 YGRR","Algodon","Manual",4,3.5
+"5/11/2015","9/28/2015","DK 234 YGRR","Algodon","Mecanizado",4,4.5
+"4/17/2015","9/4/2015","Otro","Maiz","Manual",53,2.2
+"5/2/2015","9/10/2015","PAC 105","Algodon","Mecanizado",29,3.8
+"5/21/2015","9/30/2015","PAC 105","Algodon","Manual",43,2.1
+"5/20/2015","9/28/2015","Otro","Algodon","Manual",43,5
+"5/6/2015","9/16/2015","DK 234 YGRR","Maiz","Mecanizado",4,2.4
+"5/1/2015","9/8/2015","DK 234 YGRR","Maiz","Mecanizado",42,2.5
+"5/25/2015","10/3/2015","PAC 105","Maiz","Mecanizado",5,3.2
+"5/8/2015","8/20/2015","P3966 (Pioneer)","Algodon","Mecanizado",31,4.5
+"4/29/2015","9/18/2015","DK 234 YGRR","Algodon","Mecanizado",43,4.8
+"5/5/2015","9/16/2015","DK 234 YGRR","Algodon","Mecanizado",26,2.7
+"5/19/2015","10/8/2015","Otro","Algodon","Mecanizado",4,1.2
+"4/28/2015","9/17/2015","Otro","Algodon","Manual",4,4.2
+"5/7/2015","9/16/2015","Otro","Algodon","Mecanizado",37,3.5
+"10/2/2015","2/25/2016","DK 234 YGRR","Algodon","Mecanizado",4,4
+"10/3/2015","2/26/2016","DK 234 YGRR","Algodon","Mecanizado",4,4.2
+"9/18/2015","1/28/2016","PIONEER 30F35 HRR","Algodon","Mecanizado",43,5
+"9/23/2015","2/5/2016","DK 234 YGRR","Algodon","Mecanizado",5,5.2
+"9/25/2015","1/28/2016","DK 234 YGRR","Algodon","Mecanizado",5,2.5
+"10/7/2015","2/17/2016","DK 234 YGRR","Algodon","Mecanizado",4,2.5
+"10/2/2015","2/10/2016","DK 234 YGRR","Algodon","Mecanizado",49,4.1
+"10/15/2015","2/20/2016","DK 234 YGRR","Algodon","Mecanizado",43,2.3
+"10/12/2015","2/20/2016","DK 234 YGRR","Algodon","Mecanizado",26,3.1
+"9/26/2015","2/8/2016","PAC 105","Algodon","Mecanizado",53,2.1
+"10/5/2015","2/20/2016","DK 234 YGRR","Algodon","Mecanizado",4,3.5
+"10/7/2015","2/17/2016","DK 234 YGRR","Algodon","Mecanizado",53,2.4
+"9/20/2015","2/10/2016","PAC 105","Algodon","Mecanizado",56,2.2
+"9/27/2015","2/12/2016","NK254 (Syngenta)","Algodon","Mecanizado",37,3.5
+"9/25/2015","2/14/2016","NK254 (Syngenta)","Algodon","Mecanizado",38,3
+"9/24/2015","2/8/2016","PAC 105","Algodon","Mecanizado",38,3
+"10/16/2015","2/24/2016","P3966 (Pioneer)","Algodon","Mecanizado",25,4.5
+"10/22/2015","2/27/2016","Otro","Algodon","Mecanizado",37,6.4
+"10/27/2015","3/7/2016","PAC 105","Algodon","Mecanizado",37,5.1
+"10/27/2015","3/3/2016","Otro","Algodon","Manual",37,5.5
+"9/21/2015","2/15/2016","Impacto (Syngenta)","Algodon","Mecanizado",18,5.1
+"9/21/2015","2/14/2016","PIONEER 30F35 H","Maiz","Mecanizado",18,5
+"10/4/2015","2/28/2016","Impacto (Syngenta)","Maiz","Mecanizado",37,5
+"9/19/2015","2/8/2016","Otro","Algodon","Mecanizado",37,4.8
+"9/30/2015","2/10/2016","Impacto (Syngenta)","Maiz","Mecanizado",37,5.15
+"9/22/2015","2/4/2016","Impacto (Syngenta)","Maiz","Mecanizado",37,5.4
+"10/13/2015","2/22/2016","ADV 9339 (Syngenta)","Maiz","Mecanizado",37,5
+"10/30/2015","3/12/2016","Impacto (Syngenta)","Maiz","Mecanizado",37,5
+"10/24/2015","3/4/2016","Impacto (Syngenta)","Algodon","Mecanizado",57,4.9
+"10/7/2015","2/22/2016","Otro","Algodon","Mecanizado",37,5.1
+"10/5/2015","2/16/2016","ICA V 305","Algodon","Manual",38,4.5
+"10/25/2015","3/2/2016","P4082 (Pioneer)","Algodon","Manual",37,5.4
+"11/3/2015","3/12/2016","Otro","Algodon","Manual",25,6
+"11/10/2015","3/19/2016","P4082 (Pioneer)","Algodon","Mecanizado",25,5
+"9/25/2015","2/15/2016","Otro","Algodon","Manual",25,4.8
+"9/30/2015","2/15/2016","P4082 (Pioneer)","Algodon","Manual",37,5
+"9/27/2015","2/8/2016","Otro","Algodon","Mecanizado",58,4.8
+"9/22/2015","2/2/2016","P3966 (Pioneer)","Algodon","Mecanizado",37,5.1
+"10/15/2015","2/27/2016","Impacto (Syngenta)","Maiz","Manual",38,4.8
+"10/22/2015","3/2/2016","Otro","Algodon","Mecanizado",38,4.9
+"10/15/2015","2/24/2016","DK 234","Maiz","Mecanizado",29,4.7
+"9/30/2015","2/8/2016","DK 234","Maiz","Mecanizado",26,4.1
+"10/15/2015","2/26/2016","DK 234","Maiz","Mecanizado",29,4.2
+"10/10/2015","2/18/2016","P3966 (Pioneer)","Maiz","Mecanizado",29,4
+"10/13/2015","2/26/2016","PAC 105","Algodon","Mecanizado",33,4
+"10/7/2015","2/22/2016","DK 234","Algodon","Mecanizado",23,4.6
+"10/5/2015","2/22/2016","DK 234","Algodon","Mecanizado",23,4.5
+"9/27/2015","2/10/2016","P3966 (Pioneer)","Algodon","Mecanizado",29,4.5
+"9/30/2015","2/15/2016","DK 234","Maiz","Manual",8,4.2
+"10/12/2015","2/25/2016","Impacto (Syngenta)","Algodon","Manual",33,4
+"9/30/2015","2/5/2016","DK 234","Maiz","Manual",26,4
+"9/30/2015","2/17/2016","DK 234","Maiz","Manual",33,4.2
+"10/19/2015","2/25/2016","DK 234","Algodon","Manual",44,4.3
+"10/8/2015","2/16/2016","DK 234","Algodon","Mecanizado",14,4.6
+"10/1/2015","2/20/2016","DK 234","Maiz","Mecanizado",14,4.7
+"10/2/2015","2/13/2016","P3966 (Pioneer)","Algodon","Mecanizado",29,4.9
+"9/24/2015","2/4/2016","DK 234","Maiz","Mecanizado",29,4.5
+"10/25/2015","2/8/2016","PAC 105","Maiz","Manual",29,4.2
+"10/21/2015","3/3/2016","Otro","Algodon","Mecanizado",18,5.3
+"10/26/2015","3/3/2016","Otro","Algodon","Mecanizado",37,5.7
+"10/5/2015","2/20/2016","P4082 (Pioneer)","Algodon","Mecanizado",37,4
+"5/6/2014","9/10/2014","PIONEER 30F35","Maiz","Mecanizado",25,5.1
+"9/28/2015","2/18/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",37,5
+"9/28/2015","2/19/2016","DK 234","Maiz","Manual",33,3.8
+"9/25/2015","2/9/2016","DK 234","Maiz","Manual",29,3.6
+"9/25/2015","2/8/2016","Impacto (Syngenta)","Maiz","Manual",33,3.5
+"9/27/2015","2/12/2016","DK 234","Maiz","Manual",29,3.6
+"9/29/2015","2/13/2016","DK 234","Maiz","Mecanizado",59,4
+"5/28/2014","9/25/2014","PAC 105","Algodon","Manual",40,3.5
+"5/8/2014","9/12/2014","DK 234","Algodon","Mecanizado",25,5.5
+"10/1/2015","2/20/2016","PAC 105","Algodon","Manual",23,5
+"10/3/2015","2/18/2016","DK 234","Algodon","Mecanizado",60,6.5
+"10/4/2015","2/19/2016","DK 234","Maiz","Mecanizado",17,1.8
+"9/28/2015","2/24/2016","DK 234","Algodon","Mecanizado",11,5.2
+"8/27/2013","2/2/2014","PAC 105","Algodon","Manual",24,4.6
+"9/26/2015","2/14/2016","Impacto (Syngenta)","Maiz","Manual",29,4
+"9/27/2015","2/10/2016","DK 234","Algodon","Mecanizado",14,4
+"9/15/2015","2/28/2016","DK 234","Maiz","Manual",23,3.7
+"9/22/2015","2/8/2016","P3966 (Pioneer)","Maiz","Manual",23,3.7
+"10/2/2015","2/12/2016","Impacto (Syngenta)","Algodon","Manual",33,3.5
+"10/5/2015","2/18/2016","DK 234","Algodon","Manual",28,3.5
+"10/1/2015","2/15/2016","ICA V 109","Maiz","Mecanizado",23,3.2
+"10/2/2015","2/12/2016","ICA V 109","Algodon","Mecanizado",31,3
+"10/5/2015","2/18/2016","ADV 9339 (Syngenta)","Algodon","Manual",14,4.3
+"5/9/2014","9/2/2014","Otro","Maiz","Mecanizado",23,4.7
+"9/30/2015","2/13/2016","DK7088","Algodon","Manual",28,4.5
+"9/15/2015","1/28/2016","Otro","Maiz","Manual",33,4.2
+"9/20/2015","2/3/2016","Otro","Maiz","Manual",33,4.5
+"10/3/2015","2/13/2016","P3966 (Pioneer)","Maiz","Manual",28,4.5
+"10/13/2015","2/25/2016","Otro","Maiz","Manual",39,4.2
+"10/5/2015","2/16/2016","ADV 9339 (Syngenta)","Maiz","Mecanizado",33,4.1
+"9/18/2015","1/26/2016","ADV 9339 (Syngenta)","Maiz","Manual",14,4.2
+"10/10/2015","2/25/2016","Otro","Maiz","Manual",23,4.5
+"9/26/2015","2/15/2016","Otro","Maiz","Manual",28,4.3
+"10/2/2015","2/12/2016","Otro","Algodon","Manual",29,4.3
+"9/28/2015","2/9/2016","Otro","Maiz","Manual",33,4.5
+"5/20/2014","9/25/2014","Otro","Maiz","Mecanizado",29,4.3
+"5/10/2014","9/18/2014","Otro","Algodon","Manual",28,4.2
+"5/12/2014","9/23/2014","DK 234","Maiz","Manual",33,4
+"5/10/2014","9/20/2014","P3966 (Pioneer)","Algodon","Manual",28,4
+"5/1/2013","9/17/2013","DK 234","Maiz","Manual",14,4
+"8/10/2014","12/23/2014","Otro","Algodon","Manual",28,4.5
+"5/4/2016","9/24/2016","Otro","Maiz","Manual",23,4.6
+"5/14/2016","9/24/2016","P3966 (Pioneer)","Algodon","Manual",61,4.5
+"5/17/2016","9/25/2016","Otro","Algodon","Mecanizado",29,4.6
+"5/17/2016","9/29/2016","Otro","Maiz","Manual",33,4.5
+"4/28/2016","8/22/2016","Otro","Maiz","Manual",14,4.6
+"5/13/2016","9/19/2016","P3966 (Pioneer)","Maiz","Manual",33,4
+"4/30/2016","9/12/2016","Otro","Algodon","Manual",33,4.6
+"5/10/2016","9/19/2016","ADV 9339 (Syngenta)","Maiz","Manual",29,4.2
+"5/5/2016","9/13/2016","Otro","Maiz","Manual",29,4.3
+"4/25/2016","9/7/2016","P3966 (Pioneer)","Maiz","Manual",28,4.5
+"5/10/2016","9/22/2016","ADV 9339 (Syngenta)","Maiz","Manual",23,4.4
+"5/16/2016","9/30/2016","P4082 (Pioneer)","Maiz","Manual",33,4.6
+"5/4/2016","9/19/2016","P3966 (Pioneer)","Maiz","Manual",23,4.5
+"4/25/2016","9/5/2016","Otro","Algodon","Manual",29,4.4
+"5/17/2016","9/29/2016","P3966 (Pioneer)","Algodon","Manual",33,4.5
+"5/16/2016","9/26/2016","Otro","Algodon","Manual",33,4.5
+"4/27/2016","9/8/2016","DK 234 YGRR","Maiz","Mecanizado",43,5.5
+"5/3/2016","9/19/2016","PAC 105","Maiz","Mecanizado",4,3
+"5/4/2016","9/12/2016","DK7088","Maiz","Mecanizado",4,5
+"5/2/2016","9/14/2016","Otro","Maiz","Manual",14,4.2
+"5/7/2016","9/19/2016","CORPOICA V 114","Maiz","Manual",47,2.5
+"6/6/2016","10/21/2016","PIONEER 30F35 HRR","Maiz","Manual",30,3.8
+"5/27/2016","10/10/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",46,3.8
+"5/10/2016","9/21/2016","DK 234 YGRR","Maiz","Manual",49,3.5
+"4/28/2016","9/14/2016","PIONEER 30F35 HRR","Maiz","Manual",62,4
+"5/3/2016","9/14/2016","P3966 (Pioneer)","Maiz","Mecanizado",34,5
+"5/8/2016","9/20/2016","P3966 (Pioneer)","Maiz","Mecanizado",34,5.5
+"4/30/2016","9/10/2016","PIONEER 30F35 HRR","Maiz","Manual",53,4.5
+"5/1/2016","9/19/2016","ADV 9293 (Syngenta)","Maiz","Manual",43,3.2
+"5/30/2015","10/5/2015","DK 234 YGRR","Maiz","Manual",43,5.6
+"5/1/2016","9/13/2016","DK 234 YGRR","Maiz","Manual",43,3.1
+"5/2/2016","9/12/2016","FNC 114","Maiz","Manual",4,5.3
+"5/5/2016","9/12/2016","PIONEER 30F35 HRR","Maiz","Manual",4,5.1
+"5/6/2016","9/14/2016","PIONEER 30F35 HRR","Maiz","Manual",4,4.8
+"5/5/2016","9/20/2016","DK 234 YGRR","Maiz","Manual",43,5
+"4/30/2016","9/20/2016","DK 234 YGRR","Maiz","Mecanizado",4,4.1
+"5/10/2016","9/21/2016","DK7088","Maiz","Manual",43,5
+"5/12/2016","9/14/2016","PIONEER 30F35 HRR","Maiz","Manual",4,3.6
+"5/1/2016","9/13/2016","P3966 (Pioneer)","Maiz","Mecanizado",34,5.8
+"5/6/2016","9/14/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",43,6
+"5/2/2016","9/12/2016","P3966 (Pioneer)","Maiz","Mecanizado",34,5.5
+"5/20/2015","9/28/2015","DK7088","Maiz","Mecanizado",4,6.1
+"5/2/2016","9/13/2016","PIONEER 30F35 HRR","Maiz","Manual",4,5.5
+"5/12/2016","9/24/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",43,5.2
+"5/8/2016","9/20/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",4,5.2
+"5/13/2016","9/27/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",4,4.1
+"5/4/2016","9/12/2016","P3966 (Pioneer)","Maiz","Mecanizado",34,5.8
+"5/20/2015","9/28/2015","P3966 (Pioneer)","Maiz","Mecanizado",34,5.8
+"5/18/2015","9/28/2015","DK 234 YGRR","Maiz","Mecanizado",34,5.3
+"5/5/2016","9/20/2016","PIONEER 30F35 HRR","Maiz","Manual",43,5.1
+"5/12/2015","9/22/2015","Impacto (Syngenta)","Maiz","Manual",43,4.5
+"5/18/2015","9/23/2015","Impacto (Syngenta)","Maiz","Mecanizado",43,4.5
+"5/16/2016","10/5/2016","PIONEER 30F35 HRR","Maiz","Manual",43,4.3
+"5/20/2015","9/25/2015","DK 234","Maiz","Manual",4,4.2
+"5/8/2016","9/20/2016","DK 234 YGRR","Maiz","Manual",4,3.5
+"5/23/2015","9/28/2015","DK7088","Maiz","Manual",4,3.4
+"5/25/2015","10/2/2015","PIONEER 30F35 HRR","Maiz","Manual",4,4.6
+"5/21/2015","9/28/2015","DK7088","Maiz","Mecanizado",4,5.2
+"5/23/2015","10/2/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",4,4
+"5/18/2015","9/28/2015","PIONEER 30F35 HRR","Maiz","Manual",43,4.3
+"5/24/2015","10/2/2015","DK7088","Maiz","Manual",43,5.2
+"5/7/2016","9/18/2016","PIONEER 30F35 HRR","Maiz","Manual",43,5.2
+"5/4/2016","9/20/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",4,5.1
+"5/4/2016","9/19/2016","DK 234","Maiz","Manual",53,4.9
+"5/23/2015","10/1/2015","PIONEER 30F35 HRR","Maiz","Manual",43,5.2
+"5/21/2015","9/28/2015","DK7088","Maiz","Manual",4,3.9
+"5/24/2015","9/28/2015","Impacto (Syngenta)","Pastos","Manual",4,4.3
+"5/20/2015","10/1/2015","PIONEER 30F35 HRR","Maiz","Manual",4,5.2
+"5/21/2015","9/28/2015","PIONEER 30F35 H","Maiz","Manual",29,4.2
+"5/25/2015","9/30/2015","Impacto (Syngenta)","Pastos","Manual",43,4.2
+"5/20/2015","10/2/2015","PIONEER 30F35 HRR","Pastos","Manual",43,4.6
+"5/12/2015","9/21/2015","PIONEER 30F35 HRR","Maiz","Manual",43,5.2
+"5/6/2016","9/19/2016","ADV 9339 (Syngenta)","Pastos","Manual",43,4.5
+"5/10/2016","9/20/2016","PIONEER 30F35 HRR","Pastos","Manual",53,4.8
+"5/20/2015","9/28/2015","Sinko (Syngenta)","Maiz","Manual",43,3.1
+"5/6/2016","9/10/2016","PIONEER 30F35 H","Maiz","Manual",4,3.8
+"5/3/2016","9/12/2016","Otro","Maiz","Manual",43,1.2
+"5/10/2016","9/22/2016","Sinko (Syngenta)","Maiz","Manual",4,3.2
+"5/9/2016","9/24/2016","P3966 (Pioneer)","Maiz","Mecanizado",38,5.9
+"5/15/2016","9/27/2016","DK 234 YGRR","Maiz","Mecanizado",38,5.8
+"5/10/2016","9/28/2016","DK7088","Maiz","Manual",29,5.1
+"5/1/2016","9/27/2016","PIONEER 30F35 HRR","Maiz","Manual",53,4.7
+"4/27/2016","9/23/2016","PIONEER 30F35 HRR","Maiz","Manual",4,5.5
+"4/25/2016","9/24/2016","ADV 9339 (Syngenta)","Maiz","Manual",53,3.2
+"5/12/2016","9/21/2016","Otro","Maiz","Manual",53,3.2
+"5/6/2016","9/21/2016","DK 234","Maiz","Manual",4,5
+"5/12/2016","9/22/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",4,4.7
+"5/12/2016","9/20/2016","PIONEER 30F35 HRR","Maiz","Manual",4,4.8
+"5/8/2016","9/20/2016","PIONEER 30F35 HRR","Maiz","Manual",43,6.1
+"5/8/2016","9/18/2016","Impacto (Syngenta)","Maiz","Manual",53,5.6
+"5/5/2016","9/12/2016","PIONEER 30F35 HRR","Maiz","Manual",43,5.4
+"5/5/2016","9/18/2016","Otro","Maiz","Manual",46,1.6
+"5/25/2015","10/5/2015","DK7088","Maiz","Manual",63,5.3
+"5/20/2015","9/29/2015","DK7088","Maiz","Mecanizado",4,5
+"5/26/2015","10/4/2015","PIONEER 30F35 HRR","Maiz","Manual",43,5.2
+"5/20/2015","9/28/2015","Otro","Maiz","Manual",32,1.8
+"5/24/2015","10/3/2015","Otro","Maiz","Manual",63,1.8
+"5/12/2016","9/28/2016","DK 234 YGRR","Maiz","Mecanizado",18,3.9
+"5/20/2016","10/12/2016","DK 234 YGRR","Maiz","Mecanizado",18,3.9
+"5/12/2016","9/24/2016","Otro","Maiz","Mecanizado",18,4
+"5/14/2016","9/30/2016","P3966 (Pioneer)","Maiz","Mecanizado",18,4.3
+"5/15/2016","10/9/2016","Otro","Maiz","Manual",18,3.5
+"5/15/2015","9/25/2015","P3966 (Pioneer)","Maiz","Manual",18,3.8
+"5/27/2015","10/29/2015","P3966 (Pioneer)","Maiz","Mecanizado",34,4.1
+"5/20/2015","9/27/2015","DK 234 YGRR","Maiz","Mecanizado",47,4.1
+"5/20/2016","10/10/2016","DK 234 YGRR","Maiz","Mecanizado",47,4
+"5/5/2016","9/15/2016","P3966 (Pioneer)","Maiz","Manual",57,3.9
+"5/9/2016","9/25/2016","P3966 (Pioneer)","Maiz","Manual",47,3.9
+"5/3/2016","9/10/2016","DK 234 YGRR","Maiz","Mecanizado",25,4
+"5/16/2015","9/27/2015","DK 234 YGRR","Maiz","Mecanizado",25,4
+"5/18/2015","9/28/2015","DK 234 YGRR","Maiz","Manual",25,4.1
+"5/8/2016","9/20/2016","DK 234","Maiz","Manual",4,5.1
+"5/8/2016","9/23/2016","PIONEER 30F35 HRR","Maiz","Manual",43,6
+"5/24/2016","10/8/2016","DK 234","Maiz","Manual",43,5.4
+"5/9/2016","9/25/2016","DK 234","Maiz","Mecanizado",43,5.1
+"5/12/2016","9/26/2016","Impacto (Syngenta)","Maiz","Mecanizado",53,5.8
+"5/12/2016","9/26/2016","DK7088","Maiz","Mecanizado",4,5.8
+"5/20/2015","9/26/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",43,5.6
+"5/15/2016","10/1/2016","Impacto (Syngenta)","Maiz","Manual",43,5.3
+"5/25/2016","10/3/2016","DK7088","Maiz","Mecanizado",43,5.1
+"5/25/2015","10/5/2015","PIONEER 30F35 HRR","Maiz","Manual",43,5.3
+"5/25/2015","10/15/2015","PIONEER 30F35 HRR","Maiz","Manual",1,5.2
+"5/26/2015","10/5/2015","PIONEER 30F35 H","Maiz","Manual",43,5.8
+"5/16/2015","9/28/2015","DK 234","Maiz","Manual",4,5.5
+"5/18/2015","10/12/2015","DK7088","Maiz","Mecanizado",1,5.8
+"6/1/2015","10/12/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",53,5.5
+"5/18/2016","9/5/2016","DK 234","Maiz","Manual",4,5.7
+"5/16/2015","9/28/2015","Otro","Maiz","Manual",18,2.1
+"5/24/2015","10/5/2015","Otro","Maiz","Manual",46,2.2
+"5/19/2016","9/30/2016","Otro","Maiz","Manual",64,2.3
+"5/21/2015","9/28/2015","PIONEER 30F35 HRR","Maiz","Manual",43,5.6
+"5/19/2016","9/30/2016","Status (Syngenta)","Maiz","Mecanizado",37,6.6
+"5/20/2015","9/30/2015","P3966 (Pioneer)","Algodon","Mecanizado",18,6.8
+"5/25/2015","10/5/2015","DK 234 YGRR","Algodon","Mecanizado",18,6.4
+"5/20/2015","10/5/2015","P4082 (Pioneer)","Algodon","Mecanizado",18,5.8
+"5/21/2015","9/29/2015","DK7088","Algodon","Mecanizado",52,6.7
+"5/7/2015","9/21/2015","ADV 9339 (Syngenta)","Maiz","Manual",43,5
+"5/26/2015","10/5/2015","Impacto (Syngenta)","Maiz","Manual",65,5.8
+"5/18/2015","9/28/2015","ADV 9339 (Syngenta)","Maiz","Manual",4,5.5
+"5/20/2015","9/28/2015","Impacto (Syngenta)","Maiz","Mecanizado",37,7
+"5/16/2015","9/29/2015","Impacto (Syngenta)","Maiz","Mecanizado",37,7
+"5/15/2015","9/29/2015","DK 234","Pastos","Mecanizado",43,2.8
+"5/17/2015","9/28/2015","Otro","Algodon","Mecanizado",25,5.5
+"5/26/2015","9/29/2015","DK 234","Maiz","Manual",4,6
+"5/22/2015","10/5/2015","DK7088","Maiz","Manual",43,6.5
+"5/20/2015","9/25/2015","Otro","Algodon","Mecanizado",53,5
+"5/22/2015","9/28/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",4,6.5
+"5/18/2015","10/5/2015","P3966 (Pioneer)","Pastos","Mecanizado",4,3.2
+"5/20/2016","10/5/2016","Otro","Maiz","Manual",4,4.5
+"5/27/2015","10/12/2015","ADV 9293 (Syngenta)","Algodon","Mecanizado",32,5.2
+"5/18/2015","9/28/2015","DK 234","Maiz","Mecanizado",26,5.6
+"5/16/2015","9/29/2015","DK 234","Maiz","Mecanizado",44,6.1
+"5/12/2015","9/24/2015","PIONEER 30F35 H","Maiz","Mecanizado",53,6.2
+"5/18/2015","9/30/2015","DK 1596","Maiz","Mecanizado",26,5.2
+"5/15/2015","9/22/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",38,5.8
+"5/20/2015","9/30/2015","Otro","Algodon","Mecanizado",37,6.5
+"5/21/2015","9/28/2015","P3966 (Pioneer)","Maiz","Mecanizado",38,6.5
+"5/23/2015","10/11/2015","P3966 (Pioneer)","Maiz","Mecanizado",38,6.3
+"5/18/2015","9/28/2015","P3966 (Pioneer)","Maiz","Mecanizado",37,6.7
+"5/24/2015","9/30/2015","P3966 (Pioneer)","Maiz","Mecanizado",38,6.5
+"5/25/2015","10/1/2015","Otro","Maiz","Mecanizado",38,6.5
+"9/23/2015","2/10/2016","P3966 (Pioneer)","Maiz","Mecanizado",38,6.8
+"5/8/2015","9/29/2015","Otro","Maiz","Manual",18,5.7
+"5/20/2015","9/28/2015","Otro","Algodon","Mecanizado",38,6.4
+"5/2/2015","9/18/2015","Otro","Algodon","Mecanizado",37,6.4
+"4/23/2015","8/31/2015","Otro","Pastos","Manual",18,4.9
+"5/5/2015","9/11/2015","PIONEER 30F35","Pastos","Manual",47,4.9
+"4/29/2015","9/15/2015","P3966 (Pioneer)","Algodon","Mecanizado",18,6.1
+"4/25/2015","9/2/2015","PIONEER 30F35 HRR","Maiz","Manual",18,6.9
+"5/12/2015","9/21/2015","Otro","Maiz","Manual",18,7.2
+"5/4/2015","9/14/2015","Otro","Maiz","Manual",18,7.2
+"4/24/2015","9/15/2015","P3966 (Pioneer)","Algodon","Mecanizado",29,6.2
+"5/23/2015","10/13/2015","ADV 9339 (Syngenta)","Maiz","Mecanizado",43,5.7
+"5/5/2015","9/21/2015","ADV 9293 (Syngenta)","Algodon","Mecanizado",4,6.1
+"4/20/2015","9/23/2015","P3966 (Pioneer)","Algodon","Mecanizado",6,6.3
+"5/22/2015","9/30/2015","DK7088","Frijol","Mecanizado",4,6
+"5/5/2015","9/25/2015","ADV 9339 (Syngenta)","Algodon","Mecanizado",6,5.5
+"5/5/2015","9/25/2015","PIONEER 30F35","Maiz","Manual",52,6
+"5/4/2015","9/24/2015","P3966 (Pioneer)","Algodon","Mecanizado",6,5.8
+"4/25/2015","9/16/2015","ADV 9339 (Syngenta)","Algodon","Mecanizado",4,6.1
+"9/5/2015","1/8/2016","DK 234","Maiz","Manual",6,5.7
+"9/10/2015","1/15/2016","DK 234","Algodon","Mecanizado",4,5.4
+"NULL","2/18/2016","DK7088","Algodon","Mecanizado",43,6.4
+"10/5/2015","2/14/2016","ADV 9339 (Syngenta)","Algodon","Manual",43,6.3
+"10/2/2015","2/16/2016","PIONEER 30F35 H","Algodon","Manual",8,6.1
+"10/6/2015","2/22/2016","DK 234 YGRR","Maiz","Mecanizado",27,6.2
+"9/26/2015","2/8/2016","P3966 (Pioneer)","Maiz","Mecanizado",40,6.4
+"9/13/2015","1/28/2016","ADV 9293 (Syngenta)","Algodon","Mecanizado",43,6.1
+"9/27/2015","2/10/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",26,5.6
+"10/2/2015","2/19/2016","P3966 (Pioneer)","Maiz","Mecanizado",4,6.2
+"10/1/2015","2/21/2016","DK 234","Maiz","Mecanizado",43,5.7
+"9/27/2015","2/20/2016","ADV 9339 (Syngenta)","Frijol","Manual",43,5.5
+"5/10/2016","9/27/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",43,5
+"5/5/2016","9/22/2016","DK 234","Algodon","Mecanizado",42,5.3
+"5/20/2016","10/12/2016","DK7088","Algodon","Mecanizado",6,5.9
+"5/8/2016","9/25/2016","DK 234","Algodon","Mecanizado",4,5.6
+"5/2/2016","9/12/2016","ADV 9293 (Syngenta)","Maiz","Mecanizado",28,5.9
+"5/12/2016","9/26/2016","PIONEER 30F35 H","Maiz","Mecanizado",43,6.7
+"5/11/2016","9/22/2016","P3966 (Pioneer)","Maiz","Mecanizado",43,6.2
+"5/11/2016","9/22/2016","P3966 (Pioneer)","Maiz","Mecanizado",53,6.3
+"5/22/2016","10/6/2016","P3966 (Pioneer)","Algodon","Mecanizado",4,6.2
+"5/15/2016","9/30/2016","P3966 (Pioneer)","Algodon","Mecanizado",4,5.7
+"5/9/2016","9/19/2016","DK 234","Algodon","Mecanizado",1,6
+"5/12/2016","9/20/2016","Otro","Algodon","Mecanizado",54,4.8
+"5/4/2016","9/17/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",4,6.2
+"6/21/2016","10/25/2016","Otro","Maiz","Mecanizado",18,6.4
+"5/21/2016","10/27/2016","Otro","Algodon","Mecanizado",18,5.9
+"5/12/2016","9/26/2016","Otro","Algodon","Mecanizado",18,6
+"5/2/2016","9/20/2016","DK 234","Algodon","Mecanizado",1,6.4
+"5/23/2016","10/8/2016","P3966 (Pioneer)","Algodon","Mecanizado",43,6.7
+"5/8/2016","9/24/2016","DK 234","Maiz","Mecanizado",26,5.4
+"4/29/2016","9/12/2016","DK 234","Algodon","Mecanizado",43,5.3
+"5/10/2016","9/19/2016","PIONEER 30F35 HRR","Algodon","Mecanizado",43,5.8
+"5/7/2016","9/18/2016","P3966 (Pioneer)","Algodon","Manual",43,6.7
+"5/4/2016","9/15/2016","ADV 9339 (Syngenta)","Algodon","Mecanizado",4,5.4
+"5/10/2016","9/21/2016","DK 234","Algodon","Mecanizado",4,5.1
+"5/10/2016","9/29/2016","Otro","Maiz","Manual",43,5.1
+"5/15/2016","10/7/2016","DK 234","Algodon","Mecanizado",53,5.3
+"5/12/2016","10/7/2016","DK 234","Algodon","Mecanizado",6,5.2
+"5/6/2016","9/13/2016","P3966 (Pioneer)","Algodon","Manual",53,6.1
+"5/7/2016","9/13/2016","P3966 (Pioneer)","Maiz","Mecanizado",4,5.8
+"5/7/2016","9/28/2016","DK 234","Algodon","Mecanizado",4,5.5
+"5/6/2016","9/13/2016","ADV 9339 (Syngenta)","Algodon","Mecanizado",4,5.6
+"5/5/2016","9/14/2016","DK 234","Algodon","Mecanizado",5,5.7
+"5/4/2016","9/12/2016","DK 234","Algodon","Mecanizado",53,5.2
+"5/4/2016","9/14/2016","ADV 9339 (Syngenta)","Algodon","Mecanizado",53,5.9
+"5/7/2016","9/13/2016","Otro","Algodon","Mecanizado",37,6.7
+"5/5/2016","9/13/2016","Otro","Algodon","Mecanizado",37,6.5
+"5/12/2016","9/27/2016","Otro","Algodon","Mecanizado",37,6.5
+"5/6/2016","9/19/2016","ADV 9339 (Syngenta)","Maiz","Mecanizado",18,6.8
+"5/10/2016","9/22/2016","DK 234","Algodon","Mecanizado",39,7
+"5/16/2016","9/29/2016","DK 234 YGRR","Algodon","Mecanizado",6,5.5
+"4/23/2015","9/18/2015","P3966 (Pioneer)","Algodon","Mecanizado",43,6.7
+"5/17/2016","10/6/2016","PIONEER 30F35 H","Maiz","Manual",5,6
+"5/22/2016","10/3/2016","DK 234","Maiz","Mecanizado",26,6.2
+"5/9/2016","9/19/2016","P3966 (Pioneer)","Maiz","Mecanizado",26,6
+"5/10/2016","9/19/2016","P3966 (Pioneer)","Algodon","Mecanizado",43,6.5
+"5/10/2016","9/20/2016","P3966 (Pioneer)","Algodon","Mecanizado",53,6.4
+"5/10/2016","9/20/2016","P3966 (Pioneer)","Algodon","Mecanizado",53,6.5
+"5/11/2016","9/23/2016","DK 234","Algodon","Mecanizado",4,6.1
+"6/18/2016","10/25/2016","P3966 (Pioneer)","Algodon","Mecanizado",43,6.3
+"5/4/2016","9/18/2016","DK 234","Algodon","Mecanizado",43,5.3
+"4/30/2016","9/15/2016","DK 234","Algodon","Mecanizado",4,6.2
+"5/6/2016","10/1/2016","ADV 9293 (Syngenta)","Maiz","Mecanizado",43,5
+"4/24/2016","9/23/2016","DK 234","Algodon","Manual",4,5.5
+"5/7/2016","10/3/2016","DK 234","Algodon","Mecanizado",43,5.7
+"5/7/2016","10/4/2016","DK 234","Frijol","Mecanizado",43,5.4
+"5/10/2016","9/28/2016","DK 234","Algodon","Mecanizado",43,6
+"5/9/2016","9/20/2016","P3966 (Pioneer)","Algodon","Mecanizado",4,6.3
+"5/9/2016","8/21/2016","DK 234","Algodon","Mecanizado",4,5.4
+"4/29/2016","9/29/2016","P3966 (Pioneer)","Maiz","Mecanizado",37,6.3
+"5/4/2016","10/2/2016","Otro","Pastos","Mecanizado",18,7
+"5/12/2016","9/20/2016","Otro","Maiz","Mecanizado",18,6.8
+"5/12/2016","9/20/2016","Otro","Algodon","Mecanizado",18,6.7
+"5/6/2016","9/15/2016","ICA V 156","Maiz","Manual",25,4
+"5/5/2016","9/12/2016","Otro","Maiz","Mecanizado",18,5.8
+"5/4/2016","9/18/2016","Otro","Algodon","Mecanizado",38,6.5
+"5/16/2016","9/30/2016","Otro","Maiz","Mecanizado",37,6.7
+"5/6/2016","9/20/2016","Otro","Algodon","Mecanizado",38,6.5
+"5/17/2016","10/1/2016","P3966 (Pioneer)","Algodon","Mecanizado",38,6.7
+"5/6/2016","9/14/2016","Otro","Algodon","Mecanizado",18,6.5
+"5/4/2016","9/16/2016","Otro","Maiz","Mecanizado",38,6.5
+"5/5/2016","9/17/2016","Otro","Maiz","Mecanizado",37,5.5
+"5/2/2016","9/14/2016","Otro","Maiz","Mecanizado",34,6.2
+"5/8/2016","9/22/2016","Otro","Maiz","Mecanizado",34,6.2
+"5/7/2016","9/18/2016","Otro","Maiz","Mecanizado",34,6.4
+"5/7/2016","9/18/2016","Otro","Maiz","Mecanizado",34,6.5
+"5/20/2016","10/4/2016","Otro","Maiz","Mecanizado",34,6.1
+"5/5/2016","9/20/2016","Otro","Algodon","Mecanizado",34,6.3
+"5/25/2016","10/5/2016","Otro","Maiz","Mecanizado",34,6.2
+"5/22/2016","10/3/2016","Otro","Maiz","Mecanizado",37,5.8
+"5/28/2016","10/13/2016","Otro","Maiz","Mecanizado",38,5.5
+"5/20/2016","9/28/2016","Otro","Maiz","Mecanizado",38,5.2
+"5/18/2016","10/6/2016","Otro","Maiz","Mecanizado",34,6.4
+"5/15/2016","9/29/2016","Otro","Algodon","Mecanizado",37,6
+"5/22/2016","10/4/2016","Otro","Maiz","Mecanizado",34,6.5
+"5/19/2016","10/3/2016","Otro","Maiz","Mecanizado",34,6.5
+"5/6/2016","9/24/2016","Otro","Maiz","Mecanizado",34,6.3
+"5/19/2016","10/5/2016","Otro","Maiz","Mecanizado",34,5.8
+"5/10/2016","9/20/2016","Otro","Maiz","Mecanizado",34,5.4
+"5/4/2016","9/14/2016","Otro","Maiz","Mecanizado",18,5.7
+"5/19/2016","10/5/2016","Otro","Maiz","Mecanizado",18,6
+"5/9/2016","9/25/2016","ADV 9339 (Syngenta)","Maiz","Manual",47,6.7
+"5/10/2016","9/19/2016","Otro","Maiz","Mecanizado",18,6.5
+"5/16/2016","10/10/2016","Otro","Maiz","Mecanizado",18,6.1
+"5/15/2016","9/28/2016","P4082 (Pioneer)","Maiz","Mecanizado",18,5.9
+"5/7/2016","9/21/2016","Otro","Maiz","Manual",47,5.7
+"6/10/2016","10/11/2016","Otro","Maiz","Mecanizado",34,6.1
+"5/25/2016","10/8/2016","P4082 (Pioneer)","Maiz","Mecanizado",34,5.7
+"5/11/2016","9/22/2016","P4082 (Pioneer)","Maiz","Mecanizado",18,5.6
+"5/11/2016","9/24/2016","Otro","Maiz","Mecanizado",47,6
+"5/25/2016","9/30/2016","Otro","Maiz","Mecanizado",47,5.8
+"4/29/2016","9/10/2016","P4082 (Pioneer)","Maiz","Manual",18,5.8
+"5/16/2016","9/12/2016","Otro","Maiz","Mecanizado",47,6.5
+"5/11/2016","9/26/2016","Otro","Maiz","Manual",18,6.3
+"5/7/2016","9/9/2016","P4082 (Pioneer)","Maiz","Mecanizado",18,5.9
+"5/18/2016","10/5/2016","DK 234 YGRR","Maiz","Mecanizado",23,7.95
+"5/9/2016","9/25/2016","P3966 (Pioneer)","Maiz","Mecanizado",18,8.2
+"5/9/2016","9/24/2016","P3966 (Pioneer)","Maiz","Mecanizado",17,6.186
+"5/19/2016","9/30/2016","Otro","Maiz","Mecanizado",18,8.3
+"5/16/2016","9/28/2016","P3966 (Pioneer)","Maiz","Mecanizado",24,6.28
+"5/16/2016","9/28/2016","Otro","Maiz","Mecanizado",11,7.5
+"5/20/2016","10/5/2016","Otro","Maiz","Mecanizado",9,5.675
+"5/15/2016","9/30/2016","P4082 (Pioneer)","Maiz","Mecanizado",11,6.5
+"5/20/2016","10/5/2016","Otro","Maiz","Mecanizado",66,6.9
+"5/24/2016","10/12/2016","Otro","Maiz","Manual",11,6
+"5/9/2016","9/21/2016","DK 234 YGRR","Maiz","Mecanizado",16,6.14
+"5/9/2016","9/21/2016","Otro","Maiz","Manual",11,5.49
+"5/9/2016","9/21/2016","Otro","Maiz","Mecanizado",18,5.362
+"5/22/2016","10/9/2016","Otro","Maiz","Manual",14,6.12
+"5/4/2016","9/20/2016","Otro","Maiz","Manual",41,5.85
+"5/4/2016","9/20/2016","ADV 9293 (Syngenta)","Maiz","Manual",23,5.5
+"5/18/2016","10/2/2016","Cerato (Syngenta)","Algodon","Mecanizado",23,7.45
+"5/20/2016","10/7/2016","PIONEER 30F35 H","Maiz","Manual",14,4.9
+"5/12/2016","9/28/2016","Otro","Maiz","Manual",23,4.82
+"5/9/2016","9/24/2016","Otro","Maiz","Mecanizado",67,6.332
+"5/8/2016","9/26/2016","Otro","Algodon","Mecanizado",34,7
+"5/23/2016","10/10/2016","P3966 (Pioneer)","Maiz","Mecanizado",23,7.2
+"5/11/2016","9/22/2016","P3966 (Pioneer)","Maiz","Mecanizado",11,6.75
+"5/21/2016","10/4/2016","Otro","Algodon","Manual",14,8.2
+"5/14/2016","9/30/2016","Otro","Algodon","Mecanizado",11,8.3
+"5/7/2016","9/23/2016","Otro","Maiz","Mecanizado",14,6.2
+"5/9/2016","9/21/2016","Otro","Maiz","Manual",68,6
+"5/9/2016","9/21/2016","Otro","Algodon","Mecanizado",11,7.66
+"5/19/2015","10/9/2015","DK7088","Maiz","Mecanizado",69,7.99
+"5/6/2015","9/11/2015","DK 234 YGRR","Algodon","Mecanizado",11,7.7
+"5/8/2015","10/1/2015","Otro","Maiz","Manual",14,6.8
+"5/18/2015","10/7/2015","PIONEER 30F35 HRR","Maiz","Mecanizado",70,7.6
+"4/20/2015","9/15/2015","Otro","Algodon","Manual",14,5.7
+"5/18/2015","10/16/2015","P3966 (Pioneer)","Algodon","Mecanizado",11,7.9
+"4/23/2015","9/22/2015","P3966 (Pioneer)","Maiz","Mecanizado",14,7.88
+"4/24/2015","9/17/2015","Otro","Maiz","Mecanizado",23,7.9
+"4/23/2015","9/10/2015","DK 234 YGRR","Maiz","Mecanizado",14,7.5
+"5/8/2015","9/28/2015","Otro","Maiz","Mecanizado",11,7.55
+"5/1/2015","9/14/2015","ADV 9339 (Syngenta)","Maiz","Mecanizado",18,7.9
+"9/21/2015","2/8/2016","Otro","Maiz","Mecanizado",20,7
+"10/3/2015","2/15/2016","P3966 (Pioneer)","Maiz","Mecanizado",11,8
+"10/4/2015","2/16/2016","P3966 (Pioneer)","Algodon","Mecanizado",47,8
+"10/4/2015","2/16/2016","Otro","Maiz","Mecanizado",24,7.35
+"10/3/2015","2/19/2016","Sinko (Syngenta)","Maiz","Mecanizado",23,7.1
+"10/3/2015","2/17/2016","DK 234 YGRR","Algodon","Mecanizado",63,7.5
+"9/20/2015","2/8/2016","DK7088","Algodon","Mecanizado",11,8
+"9/20/2015","2/9/2016","P4082 (Pioneer)","Algodon","Mecanizado",71,7.5
+"9/25/2015","2/10/2016","P3966 (Pioneer)","Algodon","Mecanizado",11,6.05
+"9/26/2015","2/12/2016","Otro","Algodon","Mecanizado",23,7
+"9/26/2015","2/14/2016","Otro","Algodon","Mecanizado",14,6.2
+"9/25/2015","2/16/2016","PIONEER 30F35 HRR","Algodon","Mecanizado",70,7.2
+"4/30/2013","9/5/2013","PIONEER 30F35","Algodon","Mecanizado",17,6.25
+"5/26/2014","10/3/2014","Otro","Maiz","Mecanizado",39,7.9
+"11/15/2013","3/31/2014","DK7088","Maiz","Mecanizado",18,6.52
+"5/3/2016","9/12/2016","P3966 (Pioneer)","Maiz","Manual",18,6.5
+"5/10/2016","9/19/2016","P3966 (Pioneer)","Maiz","Mecanizado",70,6.2
+"5/11/2016","9/20/2016","Otro","Maiz","Mecanizado",11,5.87
+"5/6/2016","9/17/2016","Cerato (Syngenta)","Algodon","Mecanizado",14,7.9
+"5/14/2016","9/26/2016","P4082 (Pioneer)","Algodon","Mecanizado",14,8
+"9/15/2015","1/28/2016","Otro","Maiz","Mecanizado",72,8
+"10/2/2015","2/14/2016","P3966 (Pioneer)","Maiz","Mecanizado",14,7.5
+"9/29/2015","2/11/2016","DK 234 YGRR","Algodon","Mecanizado",11,7.5
+"10/2/2015","2/16/2016","Otro","Algodon","Mecanizado",72,8
+"10/5/2015","2/19/2016","Otro","Maiz","Manual",24,8
+"10/2/2015","2/23/2016","Otro","Algodon","Mecanizado",17,7.9
+"9/18/2015","1/30/2016","DK 234 YGRR","Algodon","Mecanizado",11,7
+"9/21/2015","2/3/2016","Otro","Algodon","Mecanizado",14,6.7
+"9/17/2015","2/5/2016","Otro","Algodon","Mecanizado",24,6
+"9/26/2015","2/15/2016","Otro","Algodon","Mecanizado",17,6
+"9/19/2015","2/9/2016","PIONEER 30F35 HRR","Algodon","Mecanizado",17,6.1
+"9/21/2015","2/11/2016","P3966 (Pioneer)","Maiz","Mecanizado",17,6.75
+"9/19/2015","2/4/2016","P4082 (Pioneer)","Maiz","Mecanizado",11,6.1
+"9/19/2015","2/7/2016","DK7088","Algodon","Mecanizado",17,6.7
+"5/19/2015","9/30/2015","DK 234 YGRR","Algodon","Manual",24,6.8
+"10/6/2015","2/25/2016","P4082 (Pioneer)","Algodon","Mecanizado",14,7
+"10/6/2015","2/25/2016","P4082 (Pioneer)","Maiz","Manual",11,6.9
+"9/25/2015","2/20/2016","Otro","Algodon","Mecanizado",69,6.4
+"10/4/2015","2/16/2016","Otro","Algodon","Mecanizado",17,6.05
+"9/15/2015","2/2/2016","Otro","Maiz","Mecanizado",11,6.35
+"10/20/2015","2/27/2016","PIONEER 30F35 HRR","Maiz","Mecanizado",14,6.55
+"10/1/2015","2/10/2016","Otro","Maiz","Mecanizado",14,6.3
+"10/3/2015","2/20/2016","Otro","Algodon","Mecanizado",24,6.3
+"10/1/2015","2/15/2016","Otro","Algodon","Mecanizado",24,6
+"10/2/2015","2/10/2016","Otro","Algodon","Mecanizado",23,6.5
+"10/3/2015","2/12/2016","Otro","Algodon","Mecanizado",63,6.99
+"9/27/2015","2/7/2016","Otro","Algodon","Mecanizado",24,6.9
+"9/29/2015","2/11/2016","Otro","Algodon","Mecanizado",24,6.38
+"9/26/2015","2/12/2016","Otro","Algodon","Mecanizado",62,6.75
+"10/4/2015","2/20/2016","P3966 (Pioneer)","Algodon","Mecanizado",24,6.05
+"10/1/2015","2/16/2016","DK 234 YGRR","Algodon","Mecanizado",17,6.55
+"9/30/2015","2/12/2016","Otro","Maiz","Mecanizado",16,6.8
+"10/2/2015","2/17/2016","Otro","Algodon","Mecanizado",17,7.9
+"10/8/2015","2/25/2016","Otro","Maiz","Mecanizado",24,7.2
+"10/1/2015","2/10/2016","Otro","Maiz","Manual",24,8.1
+"9/15/2015","2/3/2016","Otro","Algodon","Mecanizado",24,6.1
+"9/23/2015","2/5/2016","Otro","Algodon","Mecanizado",11,6.755
+"9/27/2015","2/17/2016","Otro","Algodon","Mecanizado",11,7
+"9/20/2015","2/6/2016","PIONEER 30F35 HRR","Algodon","Mecanizado",14,6.4
+"9/23/2015","2/10/2016","P3966 (Pioneer)","Maiz","Mecanizado",11,6.7
+"10/5/2015","2/28/2016","DK 234 YGRR","Algodon","Mecanizado",11,6.8
+"9/27/2015","2/10/2016","P4082 (Pioneer)","Algodon","Mecanizado",11,6.45
+"10/2/2015","2/17/2016","Otro","Algodon","Mecanizado",17,7.05
+"9/20/2015","2/10/2016","P3966 (Pioneer)","Algodon","Mecanizado",11,6.37
+"9/22/2015","2/9/2016","Otro","Algodon","Mecanizado",17,7.9
+"9/27/2015","2/13/2016","P3966 (Pioneer)","Maiz","Manual",24,7.15
+"9/29/2015","2/11/2016","Otro","Algodon","Mecanizado",11,6.1
+"9/11/2015","1/25/2016","DK7088","Maiz","Manual",11,6.01
+"9/4/2015","1/25/2016","Otro","Algodon","Mecanizado",24,6.16
+"9/17/2015","2/2/2016","ADV 9293 (Syngenta)","Algodon","Mecanizado",24,7
+"9/16/2015","1/27/2016","Otro","Algodon","Mecanizado",14,7
+"9/14/2015","2/2/2016","Otro","Algodon","Mecanizado",17,6.5
+"9/19/2015","2/5/2016","Otro","Maiz","Manual",24,6.98
+"9/20/2015","2/5/2016","Otro","Maiz","Manual",14,7.15
+"9/12/2015","1/27/2016","Otro","Maiz","Mecanizado",24,6.2
+"9/10/2015","1/29/2016","Otro","Algodon","Mecanizado",14,6.326
+"9/19/2015","2/4/2016","DK 234 YGRR","Algodon","Mecanizado",20,6.6
+"10/8/2015","2/19/2016","P3966 (Pioneer)","Algodon","Mecanizado",17,6.44
